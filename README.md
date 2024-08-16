@@ -1,19 +1,16 @@
-<h1 align="center">Hola 👋, Soy Lenin David</h1>
-<h3 align="center">Desarrollo de software🌟.</h3>
-<h3 align="center">🌟Futuro Ing. Software🌟.</h3>
+<h1 align="center">Hola , Soy Lenin David</h1>
+<h3 align="center">Desarrollo de software.</h3>
+<h3 align="center">Futuro Ing. Software.</h3>
 
 <br>
 <br>
 
-<p><img align="right" width="500" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="450" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **leninmamanisarmiento.2001@gmail.com**
-
-- ⚡ Fun fact :- Me gusta la Pizza 🍕 y la musica 🎵 .
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -42,14 +39,14 @@
 
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
